@@ -1,9 +1,9 @@
 # Git Practice
-Name:Lamar
+Name: Lamar
 
-Course:Devops
+Course: Devops
 
-Todays's Date:24-February 2026
+Todays's Date: 24-February 2026
 
 #What I Learned About Git
 -git tracks changes in files
@@ -13,7 +13,10 @@ Todays's Date:24-February 2026
 #Git Commands I Know
 -git clone
 -git add
--git .ignore
 -git status
 -git branch
 -git checkout
+-git push
+-git pull
+-git merge
+git rebase( undo's all your changes and commands)
