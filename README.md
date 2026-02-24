@@ -19,4 +19,6 @@ Todays's Date: 24-February 2026
 -git push
 -git pull
 -git merge
-git rebase( undo's all your changes and commands)
+-git rebase( undo's all your changes and commands)
+-git innit
+-git commit -m
