@@ -10,3 +10,10 @@ Todays's Date:24-February 2026
 -git works with branches
 -git could locally be connected from your local server and link it to the cloud server
 
+#Git Commands I Know
+-git clone
+-git add
+-git .ignore
+-git status
+-git branch
+-git checkout
